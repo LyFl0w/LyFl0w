@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LyFl0w and i'm 18 years old
+- 👋 Hi, I’m @LyFl0w and i'm 19 years old
 - 👀 I know how to program in Java(SE and EE), Python, SQL, BASH, HTML, CSS and JavaScript
 - 🌱 I am currently learning a lot of web systems.
 -  🏳 I speak French and English
